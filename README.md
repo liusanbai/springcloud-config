@@ -1,5 +1,5 @@
 # springcloud-config
 
-day220211config
+configtest
 
-springcloud-config的配置中心
+springcloud-config
